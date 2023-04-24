@@ -1,15 +1,15 @@
 # Welcome!
 
-I’m Jason, a software engineer who enjoys diving into complex domains and solving unstructured problems. My experience is mostly in JavaScript, Ruby, React, Tailwind, Express, PostgreSQL, Docker, and AWS, but I’m enthusiastic about learning whatever is needed to achieve a robust solution. I bring over a decade of experience in tackling engineering challenges, improving processes through automation, and leading cross-functional efforts.
-
-Over the past year and a half, I’ve taken an incredible journey through Launch School’s Core and [Capstone](https://launchschool.com/employers) programs, gaining a solid foundation of software engineering fundamentals and the skills to analyze and articulate problems from a systems perspective.
+I’m Jason, a software engineer who enjoys diving into complex domains and solving unstructured problems. My experience is mostly in JavaScript, Ruby, React, Tailwind, Express, PostgreSQL, Docker, and AWS, but I’m enthusiastic about learning any technologies or skills that will help the team succeed.
 
 ## Featured Project
+
+Over the past year I’ve been learning software engineering at Launch School, gaining a solid foundation of fundamentals and the ability to analyze and articulate problems from a systems perspective. Most recently, I collaborated with a remote team to create [Seamless](https://seamless-cicd.com/), an open-source CI/CD pipeline for containerized microservices.
 
 ![Seamless CI/CD](og-seamless.png)
 [Link to Seamless CI/CD Case Study](https://seamless-cicd.com/)
 
-Recently I collaborated with a remote team to create [Seamless](https://seamless-cicd.com/), an open-source CI/CD pipeline for containerized microservices. **Currently I’m looking to join a great software engineering team and would love to chat about any opportunities.** If you see anything interesting on my profile or website, feel free to reach out!
+**Currently I’m looking for a software engineering position and would love to learn about you and what you’re doing. Don’t hesitate to reach out If you see anything interesting on my profile or website!**
 
 - [Website](https://www.jasonherngwang.com/)
 - [Resume](https://jasonherngwang.com/Jason_Wang_Resume.pdf)
