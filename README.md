@@ -6,8 +6,9 @@ I’m Jason, a software engineer who enjoys diving into complex domains and solv
 
 Over the past year I’ve been learning software engineering at Launch School, gaining a solid foundation of fundamentals and the ability to analyze and articulate problems from a systems perspective. Most recently, I collaborated with a remote team to create [Seamless](https://seamless-cicd.com/), an open-source CI/CD pipeline for containerized microservices.
 
+Check out the [Case Study](https://seamless-cicd.com/case-study) for more details!
+
 ![Seamless CI/CD](og-seamless.png)
-[Link to Seamless CI/CD Case Study](https://seamless-cicd.com/)
 
 **Currently I’m looking for a software engineering position and would love to learn about you and what you’re doing. Don’t hesitate to reach out If you see anything interesting on my profile or website!**
 
