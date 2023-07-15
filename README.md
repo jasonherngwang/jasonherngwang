@@ -1,6 +1,6 @@
 # Welcome!
 
-I’m Jason, a software engineer at Cohere Health, where we aim improve the patient healthcare experience by streamlining the prior authorization process.
+I’m Jason, a software engineer at Cohere Health, where we aim to improve the patient healthcare experience by streamlining the prior authorization process.
 
 My experience is in JavaScript, Python, React, Tailwind, Express, PostgreSQL, MongoDB, Docker, and AWS, and I’m enthusiastic about learning anything to help the team succeed. I also have a background in mechanical engineering - leading clean energy projects, automating processes, and managing cross-functional efforts.
 
